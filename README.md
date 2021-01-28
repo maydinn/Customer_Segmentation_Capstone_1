@@ -57,7 +57,7 @@ Some insights:
 
 	4.3 For the third cluster customers, the targeting policy should be revisited, then designed from the beginning and according to their features.
 
-5. In time, sold and return graphs shows similar tendencies, except December, the characteristics of the month thus should be reconsidered. Moreover from august to December, the indicators were in positive trends, so that the policies which were followed in that time should be repeated. On the other hand, the average unit prices follow a different path, and it picked in June. Since it is an important input to get a higher rate of return, the situation in June should be analyzed as well. Last but not least, if there is a trade-off between the unit price and other variables, the equilibrium point should be carefully considered. 
+5. In time, sold and return graphs shows similar tendencies, except December, the characteristics of the month thus should be reconsidered. Moreover from August to December for the sold graph, the indicators were in positive trends, so that the policies which were followed in that time should be repeated. On the other hand, the average unit prices follow a different path, and it picked in June. Since it is an important input, the situation in June should be analyzed deeply as well. Last but not least, if there is a trade-off between the unit price and other variables, the equilibrium point should be carefully considered. 
 
 
 
